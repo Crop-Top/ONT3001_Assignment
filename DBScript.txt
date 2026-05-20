@@ -1,0 +1,160 @@
+USE master
+GO
+
+-- ============================================
+-- DROP DATABASE IF IT ALREADY EXISTS
+-- ============================================
+IF DB_ID('StoreDB') IS NOT NULL
+BEGIN
+    ALTER DATABASE StoreDB SET SINGLE_USER WITH ROLLBACK IMMEDIATE
+    DROP DATABASE StoreDB
+END
+GO
+
+-- ============================================
+-- CREATE DATABASE
+-- ============================================
+CREATE DATABASE StoreDB
+GO
+
+USE StoreDB
+GO
+
+-- ============================================
+-- CREATE TABLE: Categories
+-- ============================================
+CREATE TABLE Categories
+(
+    CategoryID INT IDENTITY(1,1) PRIMARY KEY,
+    CategoryName VARCHAR(100) NOT NULL,
+    Description VARCHAR(255),
+    IsActive BIT DEFAULT 1
+)
+GO
+
+-- ============================================
+-- CREATE TABLE: Customers
+-- ============================================
+CREATE TABLE Customers
+(
+    CustomerID INT IDENTITY(1,1) PRIMARY KEY,
+    FirstName VARCHAR(100) NOT NULL,
+    LastName VARCHAR(100) NOT NULL,
+    Email VARCHAR(150) NOT NULL UNIQUE,
+    PhoneNumber VARCHAR(20)
+)
+GO
+
+-- ============================================
+-- CREATE TABLE: Products
+-- ============================================
+CREATE TABLE Products
+(
+    ProductID INT IDENTITY(1,1) PRIMARY KEY,
+    CategoryID INT NOT NULL,
+    ProductName VARCHAR(150) NOT NULL,
+    Price DECIMAL(18,2) NOT NULL,
+    StockQuantity INT NOT NULL,
+
+    CONSTRAINT FK_Products_Categories
+    FOREIGN KEY (CategoryID)
+    REFERENCES Categories(CategoryID),
+
+    CONSTRAINT CHK_ProductPrice
+    CHECK (Price > 0),
+
+    CONSTRAINT CHK_StockQuantity
+    CHECK (StockQuantity >= 0)
+)
+GO
+
+-- ============================================
+-- CREATE TABLE: Orders
+-- ============================================
+CREATE TABLE Orders
+(
+    OrderID INT IDENTITY(1,1) PRIMARY KEY,
+    CustomerID INT NOT NULL,
+    ProductID INT NOT NULL,
+    OrderDate DATETIME DEFAULT GETDATE(),
+    QuantityBought INT NOT NULL,
+
+    CONSTRAINT FK_Orders_Customers
+    FOREIGN KEY (CustomerID)
+    REFERENCES Customers(CustomerID),
+
+    CONSTRAINT FK_Orders_Products
+    FOREIGN KEY (ProductID)
+    REFERENCES Products(ProductID),
+
+    CONSTRAINT CHK_QuantityBought
+    CHECK (QuantityBought > 0)
+)
+GO
+
+-- ============================================
+-- INSERT DATA INTO Categories
+-- ============================================
+INSERT INTO Categories (CategoryName, Description, IsActive)
+VALUES
+('Electronics', 'Electronic devices and accessories', 1),
+('Clothing', 'Fashion and apparel products', 1),
+('Groceries', 'Daily grocery and food items', 1),
+('Furniture', 'Home and office furniture', 1),
+('Books', 'Educational and entertainment books', 1)
+GO
+
+-- ============================================
+-- INSERT DATA INTO Customers
+-- ============================================
+INSERT INTO Customers (FirstName, LastName, Email, PhoneNumber)
+VALUES
+('John', 'Doe', 'john.doe@email.com', '0812345678'),
+('Sarah', 'Smith', 'sarah.smith@email.com', '0823456789'),
+('Michael', 'Brown', 'michael.brown@email.com', '0834567890'),
+('Emma', 'Wilson', 'emma.wilson@email.com', '0845678901'),
+('David', 'Johnson', 'david.johnson@email.com', '0856789012')
+GO
+
+-- ============================================
+-- INSERT DATA INTO Products
+-- ============================================
+INSERT INTO Products (CategoryID, ProductName, Price, StockQuantity)
+VALUES
+(1, 'Laptop', 15000.00, 10),
+(1, 'Smartphone', 8500.00, 25),
+(1, 'Bluetooth Speaker', 1200.00, 30),
+(2, 'T-Shirt', 250.00, 100),
+(2, 'Jeans', 600.00, 50),
+(3, 'Rice 10kg', 180.00, 40),
+(3, 'Cooking Oil 2L', 95.00, 60),
+(4, 'Office Chair', 1500.00, 15),
+(4, 'Desk', 2500.00, 10),
+(5, 'Database Systems Book', 450.00, 20)
+GO
+
+-- ============================================
+-- INSERT DATA INTO Orders
+-- ============================================
+INSERT INTO Orders (CustomerID, ProductID, QuantityBought)
+VALUES
+(1, 1, 1),
+(2, 2, 2),
+(3, 4, 3),
+(4, 8, 1),
+(5, 10, 2),
+(1, 6, 4),
+(2, 5, 1),
+(3, 3, 2),
+(4, 9, 1),
+(5, 7, 5)
+GO
+
+-- ============================================
+-- DISPLAY DATA
+-- ============================================
+SELECT * FROM Categories
+SELECT * FROM Customers
+SELECT * FROM Products
+SELECT * FROM Orders
+GO
