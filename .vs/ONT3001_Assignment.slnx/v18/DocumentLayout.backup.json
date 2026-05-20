@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stefan\\Desktop\\ONT3001_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\stefan\\desktop\\ont3001_assignment\\ont3001_assignment\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\stefan\\desktop\\ont3001_assignment\\ont3001_assignment\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\stefan\\desktop\\ont3001_assignment\\ont3001_assignment\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\stefan\\desktop\\ont3001_assignment\\ont3001_assignment\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\stefan\\desktop\\ont3001_assignment\\ont3001_assignment\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\stefan\\desktop\\ont3001_assignment\\ont3001_assignment\\models\\storemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\models\\storemodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ONT3001_Assignment\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:09:09.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ONT3001_Assignment\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:08:43.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ONT3001_Assignment\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:08:12.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ONT3001_Assignment\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:07:26.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\ONT3001_Assignment\\ONT3001_Assignment\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\ONT3001_Assignment\\ONT3001_Assignment\\Models\\Category.cs",
+              "RelativeToolTip": "ONT3001_Assignment\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:00:12.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoreModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Stefan\\Desktop\\ONT3001_Assignment\\ONT3001_Assignment\\Models\\StoreModel.edmx",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Models\\StoreModel.edmx",
+              "ToolTip": "C:\\Users\\Stefan\\Desktop\\ONT3001_Assignment\\ONT3001_Assignment\\Models\\StoreModel.edmx [Diagram1]",
+              "RelativeToolTip": "ONT3001_Assignment\\Models\\StoreModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-05-20T05:59:01.146Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
