@@ -17,6 +17,14 @@ namespace ONT3001_Assignment.Controllers
         // GET: Products
         public ActionResult Index()
         {
+            // Use .Where() to only show items in stock, and .OrderBy() to sort by price
+            var availableProducts = db.Products
+                                      .Where(p => p.StockQuantity > 0)
+                                      .OrderBy(p => p.Price)
+                                      .ToList();
+
+            return View(availableProducts);
+
             var products = db.Products.Include(p => p.Category);
             return View(products.ToList());
         }

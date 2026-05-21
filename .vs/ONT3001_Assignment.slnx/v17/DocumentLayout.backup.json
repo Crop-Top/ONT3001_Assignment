@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\mark\\source\\repos\\ont3001_assignment\\ont3001_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T08:12:49.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T08:12:34.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T08:11:34.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T08:09:34.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T07:48:15.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ONT3001_Assignment\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:42:12.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T07:21:19.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ONT3001_Assignment\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:15:23.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Web.config",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Web.config",
+              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Web.config",
+              "RelativeToolTip": "ONT3001_Assignment\\Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEUAAAD6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-21T07:07:54.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
