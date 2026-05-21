@@ -6,6 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using System.Threading.Tasks;
 using ONT3001_Assignment.Models;
 
 namespace ONT3001_Assignment.Controllers
@@ -15,19 +16,23 @@ namespace ONT3001_Assignment.Controllers
         private StoreDBEntities1 db = new StoreDBEntities1();
 
         // GET: Categories
-        public ActionResult Index()
+        public async Task<ActionResult> Index()
         {
-            return View(db.Categories.ToList());
+            var categories = await db.Categories
+                .Where(c => c.IsActive == true)
+                .OrderByDescending(c => c.CategoryID)
+                .ToListAsync();
+            return View(categories);
         }
 
         // GET: Categories/Details/5
-        public ActionResult Details(int? id)
+        public async Task<ActionResult> Details(int? id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Category category = db.Categories.Find(id);
+            Category category = await db.Categories.FindAsync(id);
             if (category == null)
             {
                 return HttpNotFound();
@@ -46,12 +51,12 @@ namespace ONT3001_Assignment.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "CategoryID,CategoryName,Description,IsActive")] Category category)
+        public async Task<ActionResult> Create([Bind(Include = "CategoryID,CategoryName,Description,IsActive")] Category category)
         {
             if (ModelState.IsValid)
             {
                 db.Categories.Add(category);
-                db.SaveChanges();
+                await db.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
 
@@ -59,13 +64,13 @@ namespace ONT3001_Assignment.Controllers
         }
 
         // GET: Categories/Edit/5
-        public ActionResult Edit(int? id)
+        public async Task<ActionResult> Edit(int? id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Category category = db.Categories.Find(id);
+            Category category = await db.Categories.FindAsync(id);
             if (category == null)
             {
                 return HttpNotFound();
@@ -78,25 +83,38 @@ namespace ONT3001_Assignment.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "CategoryID,CategoryName,Description,IsActive")] Category category)
+        public async Task<ActionResult> Edit([Bind(Include = "CategoryID,CategoryName,Description,IsActive")] Category category)
         {
+
+            bool nameExists = await db.Categories.AnyAsync(c => c.CategoryName == category.CategoryName
+                           && c.CategoryID != category.CategoryID);
+
+            if (nameExists)
+            {
+                ModelState.AddModelError("CategoryName", "Category already exists");
+                return View(category);
+
+            }
+            
+
+
             if (ModelState.IsValid)
             {
                 db.Entry(category).State = EntityState.Modified;
-                db.SaveChanges();
+                await db.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
             return View(category);
         }
 
         // GET: Categories/Delete/5
-        public ActionResult Delete(int? id)
+        public async Task<ActionResult> Delete(int? id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Category category = db.Categories.Find(id);
+            Category category = await db.Categories.FindAsync(id);
             if (category == null)
             {
                 return HttpNotFound();
@@ -107,11 +125,24 @@ namespace ONT3001_Assignment.Controllers
         // POST: Categories/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult DeleteConfirmed(int id)
+        public async Task<ActionResult> DeleteConfirmed(int id)
         {
-            Category category = db.Categories.Find(id);
+            Category category =await db.Categories.FindAsync(id);
+
+            if (category == null) return HttpNotFound();
+
+            if (category.Products.Any())
+            {
+                ModelState.AddModelError(" ", "Cannot delete this category because it has products assigned to it.");
+                return View(category);
+            
+            }
+
+
+
+
             db.Categories.Remove(category);
-            db.SaveChanges();
+            await db.SaveChangesAsync();
             return RedirectToAction("Index");
         }
 

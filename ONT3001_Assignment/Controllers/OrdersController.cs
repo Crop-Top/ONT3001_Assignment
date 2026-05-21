@@ -6,6 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using System.Threading.Tasks;
 using ONT3001_Assignment.Models;
 
 namespace ONT3001_Assignment.Controllers
@@ -15,20 +16,22 @@ namespace ONT3001_Assignment.Controllers
         private StoreDBEntities1 db = new StoreDBEntities1();
 
         // GET: Orders
-        public ActionResult Index()
+        public async Task<ActionResult> Index()
         {
-            var orders = db.Orders.Include(o => o.Customer).Include(o => o.Product);
-            return View(orders.ToList());
+            var orders = await db.Orders.Include(o => o.Customer).Include(o => o.Product)
+                                         .OrderByDescending(o => o.OrderDate).ToListAsync(); 
+
+            return View(orders);
         }
 
         // GET: Orders/Details/5
-        public ActionResult Details(int? id)
+        public async Task<ActionResult> Details(int? id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Order order = db.Orders.Find(id);
+            Order order = await db.Orders.FindAsync(id);
             if (order == null)
             {
                 return HttpNotFound();
@@ -49,12 +52,40 @@ namespace ONT3001_Assignment.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "OrderID,CustomerID,ProductID,OrderDate,QuantityBought")] Order order)
+        public async Task<ActionResult> Create([Bind(Include = "OrderID,CustomerID,ProductID,OrderDate,QuantityBought")] Order order)
         {
+            if (order.QuantityBought <= 0)
+            {
+                ModelState.AddModelError("QuantityBought", "Quantity must be greater than zero.");
+                ViewBag.CustomerID = new SelectList(db.Customers, "CustomerID", "FirstName", order.CustomerID);
+                ViewBag.ProductID = new SelectList(db.Products, "ProductID", "ProductName", order.ProductID);
+                return View(order);
+            }
+
+            bool customerExists = await db.Customers.AnyAsync(c => c.CustomerID == order.CustomerID);
+            bool productExists = await db.Products.AnyAsync(p => p.ProductID == order.ProductID);
+
+            if (!customerExists)
+            {
+                ModelState.AddModelError("CustomerID", "Selected customer does not exist.");
+            }
+            if (!productExists)
+            {
+                ModelState.AddModelError("ProductID", "Selected product does not exist.");
+            }
+
+            if (!customerExists || !productExists)
+            {
+                ViewBag.CustomerID = new SelectList(db.Customers, "CustomerID", "FirstName", order.CustomerID);
+                ViewBag.ProductID = new SelectList(db.Products, "ProductID", "ProductName", order.ProductID);
+                return View(order);
+            }
+
+
             if (ModelState.IsValid)
             {
                 db.Orders.Add(order);
-                db.SaveChanges();
+                await db.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
 
@@ -64,13 +95,13 @@ namespace ONT3001_Assignment.Controllers
         }
 
         // GET: Orders/Edit/5
-        public ActionResult Edit(int? id)
+        public async Task<ActionResult> Edit(int? id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Order order = db.Orders.Find(id);
+            Order order = await db.Orders.FindAsync(id);
             if (order == null)
             {
                 return HttpNotFound();
@@ -85,12 +116,42 @@ namespace ONT3001_Assignment.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "OrderID,CustomerID,ProductID,OrderDate,QuantityBought")] Order order)
+        public async Task<ActionResult> Edit([Bind(Include = "OrderID,CustomerID,ProductID,OrderDate,QuantityBought")] Order order)
         {
+
+            if (order.QuantityBought <= 0)
+            {
+                ModelState.AddModelError("QuantityBought", "Quantity must be greater than zero.");
+                ViewBag.CustomerID = new SelectList(db.Customers, "CustomerID", "FirstName", order.CustomerID);
+                ViewBag.ProductID = new SelectList(db.Products, "ProductID", "ProductName", order.ProductID);
+                return View(order);
+            }
+
+            
+            bool customerExists = await db.Customers.AnyAsync(c => c.CustomerID == order.CustomerID);
+            bool productExists = await db.Products.AnyAsync(p => p.ProductID == order.ProductID);
+
+            if (!customerExists)
+            {
+                ModelState.AddModelError("CustomerID", "Selected customer does not exist.");
+            }
+            if (!productExists)
+            {
+                ModelState.AddModelError("ProductID", "Selected product does not exist.");
+            }
+
+            if (!customerExists || !productExists)
+            {
+                ViewBag.CustomerID = new SelectList(db.Customers, "CustomerID", "FirstName", order.CustomerID);
+                ViewBag.ProductID = new SelectList(db.Products, "ProductID", "ProductName", order.ProductID);
+                return View(order);
+            }
+
+
             if (ModelState.IsValid)
             {
                 db.Entry(order).State = EntityState.Modified;
-                db.SaveChanges();
+                await db.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
             ViewBag.CustomerID = new SelectList(db.Customers, "CustomerID", "FirstName", order.CustomerID);
@@ -99,13 +160,13 @@ namespace ONT3001_Assignment.Controllers
         }
 
         // GET: Orders/Delete/5
-        public ActionResult Delete(int? id)
+        public async Task<ActionResult> Delete(int? id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Order order = db.Orders.Find(id);
+            Order order = await db.Orders.FindAsync(id);
             if (order == null)
             {
                 return HttpNotFound();
@@ -116,11 +177,13 @@ namespace ONT3001_Assignment.Controllers
         // POST: Orders/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult DeleteConfirmed(int id)
+        public async Task<ActionResult>  DeleteConfirmed(int id)
         {
-            Order order = db.Orders.Find(id);
+            Order order = await db.Orders.FindAsync(id);
+            if (order == null) return HttpNotFound(); 
+
             db.Orders.Remove(order);
-            db.SaveChanges();
+            await db.SaveChangesAsync();
             return RedirectToAction("Index");
         }
 

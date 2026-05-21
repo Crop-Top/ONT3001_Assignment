@@ -45,12 +45,16 @@
 
     </dl>
 
-    @using (Html.BeginForm()) {
-        @Html.AntiForgeryToken()
+    @using (Html.BeginForm("Delete", "Customers", new { id = Model.CustomerID }, FormMethod.Post))
+    
+        {
+            @Html.AntiForgeryToken()
 
-        <div class="form-actions no-color">
-            <input type="submit" value="Delete" class="btn btn-default" /> |
-            @Html.ActionLink("Back to List", "Index")
-        </div>
-    }
+<div class="form-actions no-color">
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <input type="submit" value="Delete" class="btn btn-default" /> |
+    @Html.ActionLink("Back to List", "Index")
 </div>
+        }
+    </div>

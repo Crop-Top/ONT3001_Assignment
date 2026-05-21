@@ -1,42 +1,198 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\",
+  "WorkspaceRootPath": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\mark\\source\\repos\\ont3001_assignment\\ont3001_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ont3001_assignment\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-utilities.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-utilities.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-utilities.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-utilities.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-utilities.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-utilities.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-utilities.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-utilities.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-utilities.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-utilities.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-utilities.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-utilities.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-utilities.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-utilities.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-reboot.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-reboot.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-reboot.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-reboot.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-reboot.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-reboot.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-reboot.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-reboot.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-reboot.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-reboot.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-reboot.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-reboot.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-reboot.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-reboot.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-grid.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-grid.rtl.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-grid.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-grid.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|c:\\users\\jared\\onedrive\\desktop\\nmu - 2026\\assignment\\ont3001_assignment\\ont3001_assignment\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE6B77D5-A427-4E0F-8094-880C34AA7EBB}|ONT3001_Assignment\\ONT3001_Assignment.csproj|solutionrelative:ont3001_assignment\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,116 +202,634 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "ONT3001_Assignment\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-21T08:12:49.056Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Orders\\Index.cshtml",
-              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Orders\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Orders\\Index.cshtml",
-              "RelativeToolTip": "ONT3001_Assignment\\Views\\Orders\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-21T08:12:34.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Customers\\Index.cshtml",
-              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Customers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Customers\\Index.cshtml",
-              "RelativeToolTip": "ONT3001_Assignment\\Views\\Customers\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-21T08:11:34.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Categories\\Index.cshtml",
-              "RelativeToolTip": "ONT3001_Assignment\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-21T08:09:34.4Z"
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ONT3001_Assignment\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:01:02.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ONT3001_Assignment\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ONT3001_Assignment\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAADgv38AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:31:12.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-21T07:48:15.66Z",
+              "WhenOpened": "2026-05-21T13:01:10.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ONT3001_Assignment\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAswM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T12:35:58.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ONT3001_Assignment\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAkwMcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:18:09.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.rtl.min.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.rtl.min.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:23.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ONT3001_Assignment\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ONT3001_Assignment\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T07:42:12.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ONT3001_Assignment\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-21T07:21:19.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ONT3001_Assignment\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ONT3001_Assignment\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T07:15:23.853Z"
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\Site.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\Site.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:24.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Web.config",
-              "RelativeDocumentMoniker": "ONT3001_Assignment\\Web.config",
-              "ToolTip": "C:\\Users\\Mark\\source\\repos\\ONT3001_Assignment\\ONT3001_Assignment\\Web.config",
-              "RelativeToolTip": "ONT3001_Assignment\\Web.config",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEUAAAD6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-05-21T07:07:54.641Z",
+              "Title": "bootstrap.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.rtl.min.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap.rtl.min.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.rtl.min.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:23.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap-grid.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-grid.rtl.min.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-grid.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:18.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.rtl.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap.rtl.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.rtl.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:23.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap.rtl.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.rtl.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap.rtl.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.rtl.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap.rtl.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:23.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap.min.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.min.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap.min.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.min.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:22.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.min.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:22.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:22.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:22.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap-utilities.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.min.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.min.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:21.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bootstrap-utilities.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.min.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.min.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.min.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:21.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "bootstrap-utilities.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:21.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "bootstrap-utilities.rtl.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-utilities.rtl.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:21.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap-utilities.min.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.min.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-utilities.min.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.min.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-utilities.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:20.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bootstrap-utilities.min.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.min.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-utilities.min.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.min.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-utilities.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:20.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bootstrap-utilities.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-utilities.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-utilities.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:20.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-utilities.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-utilities.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-utilities.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:20.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bootstrap-reboot.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.min.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.min.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:20.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bootstrap-reboot.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.min.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.min.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.min.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:19.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bootstrap-reboot.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:19.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "bootstrap-reboot.rtl.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-reboot.rtl.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:19.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "bootstrap-reboot.min.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.min.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-reboot.min.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.min.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-reboot.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:19.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "bootstrap-reboot.min.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.min.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-reboot.min.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.min.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-reboot.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:19.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "bootstrap-reboot.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-reboot.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-reboot.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:19.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-reboot.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-reboot.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:19.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "bootstrap-grid.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.rtl.min.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-grid.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.rtl.min.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-grid.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:18.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "bootstrap-grid.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.rtl.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-grid.rtl.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.rtl.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-grid.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:18.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "bootstrap-grid.rtl.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.rtl.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-grid.rtl.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.rtl.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-grid.rtl.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:18.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "bootstrap-grid.min.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.min.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-grid.min.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.min.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-grid.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:18.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "bootstrap-grid.min.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.min.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-grid.min.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.min.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-grid.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:18.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.css.map",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-grid.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-21T13:27:18.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Content\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Content\\bootstrap-grid.css",
+              "RelativeToolTip": "ONT3001_Assignment\\Content\\bootstrap-grid.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T13:27:17.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T13:03:12.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Customers\\Details.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T13:02:34.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T13:02:57.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T13:05:01.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Orders\\Delete.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T13:03:48.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T13:00:39.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T12:59:42.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T12:59:25.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T12:58:51.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ONT3001_Assignment\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\Nmu - 2026\\Assignment\\ONT3001_Assignment\\ONT3001_Assignment\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "ONT3001_Assignment\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T12:37:59.068Z",
               "EditorCaption": ""
             }
           ]
